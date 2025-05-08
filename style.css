@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    justify-content: end;
+
+}
+.nav li a{
+           text-decoration: none;
+         }
+.nav_{
+     place-items:right;
+    
+}
+.nav{
+ list-style: none;
+ gap: 20px;
+}
+.form{ display: grid;
+    justify-content: center;
+    flex-direction: row;
+}
